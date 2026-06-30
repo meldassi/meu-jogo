@@ -1,0 +1,4 @@
+personagens.txt
+nome: liz .
+ataque: 8000
+vida : 2000

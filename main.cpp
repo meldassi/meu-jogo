@@ -1,4 +1,4 @@
 #include <iostream>
  int main () {
- 	std::cout <<  "meu jogo" << std :: endl ;
+ 	std::cout <<  "hanamori" << std :: endl ;
  }
